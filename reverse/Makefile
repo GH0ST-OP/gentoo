@@ -1,0 +1,1 @@
+obj-y := reverse.o
